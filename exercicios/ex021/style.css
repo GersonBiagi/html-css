@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(111, 239, 239);
+}
+header{
+    text-align: center;
+    background-color: rgb(10, 82, 33);
+    padding: 15px;
+   
+    
+}
+nav{
+   text-align: left;
+   
+  
+}
+nav > a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 5px;
+}
+main{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    text-justify: auto;
+    position:static;
+    
+}
+h2{
+    color: rgb(8, 76, 8);
+}
